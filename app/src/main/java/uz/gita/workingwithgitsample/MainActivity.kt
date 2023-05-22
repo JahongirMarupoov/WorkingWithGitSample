@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("ttt","ALLAMLAR MENIQIYNADI ALALAMLAR ")
         Log.d("TTT", "Jahongir: Hello everyone!")
         Toast.makeText(this,"dgs",Toast.LENGTH_LONG).show()
+
+        //vaisov shohruxbek
     }
 }
