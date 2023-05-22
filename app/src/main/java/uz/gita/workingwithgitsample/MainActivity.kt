@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("ttt","ALLAMLAR MENIQIYNADI ALALAMLAR ")
         Log.d("TTT", "Boss: Hello everyone!")
         Toast.makeText(this,"dgs",Toast.LENGTH_LONG).show()
+        Log.d("TTT", "Boss: Tuzimilami Dilmurod")
     }
 }
