@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.d("TTT", "onCreate: Hello everyone!")
         Log.d("ttt","ALLAMLAR MENIQIYNADI ALALAMLAR ")
+        Log.d("TTT", "Jahongir: Hello everyone!")
         Toast.makeText(this,"dgs",Toast.LENGTH_LONG).show()
     }
 }
